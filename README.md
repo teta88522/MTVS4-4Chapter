@@ -253,4 +253,4 @@ memorization_system/
 본 프로젝트는 개인 포트폴리오 용도로만 공개되었습니다.  
 코드의 복제, 수정, 재배포 등은 허용되지 않으며, 모든 권리는 작성자에게 있습니다.
 
-Copyright © 2025 swotj. All rights reserved.
+Copyright © 2025 teta88522. All rights reserved.
